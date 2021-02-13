@@ -1,0 +1,1 @@
+\copy cast_film FROM 'C:\Users\Usuario\OneDrive\curso-fullstack\tercer_modulo\desafio_2\cast_film.csv'csv;
